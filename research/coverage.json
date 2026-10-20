@@ -1,0 +1,23 @@
+{
+  "unique_posts": 20684,
+  "original_index": 18114,
+  "added": 2570,
+  "article_appearances": 25094,
+  "authors": {
+    "@ronbronson": 20684
+  },
+  "roles": {
+    "main": 20684,
+    "parent": 2205,
+    "child": 2205
+  },
+  "date_basis": {
+    "searchDocuments.created_at": 18114,
+    "snowflake ID timestamp": 2426,
+    "archive display only; timezone unspecified": 144
+  },
+  "errors": [],
+  "text_conflicts": [
+    "1693822200053379360"
+  ]
+}

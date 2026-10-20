@@ -1,0 +1,2 @@
+# Preserve whitespace inside exact quoted post text in CSV fields.
+*.csv whitespace=-blank-at-eol
